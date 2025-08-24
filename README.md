@@ -1,6 +1,11 @@
 # 👋 Hi, I'm Angelo Quispe Lázaro  
 
-<img src="https://i.gifer.com/6mz.gif" alt="Angelo Quispe Lázaro" width="150" align="right" />
+<img src="https://media.licdn.com/dms/image/v2/D4E03AQFiGAfCUHvPgA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1721266033673?e=1758758400&v=beta&t=ZVG6gK4eKGd8E0qtKogZ-G1_ALGD_fTE1CfUnvbiwY0" 
+     alt="Angelo Quispe Lázaro" 
+     width="150" 
+     align="right" 
+     style="border-radius:50%;" />
+
 
 🎓 **Software Design & Development Student** at **TECSUP**  
 💻 Passionate about **Full-Stack Development** and **Databases**  

@@ -38,6 +38,25 @@ Currently, I have an **intermediate English level**.
 
 ---
 
+## 🏢 Work Experience  
+
+**RCM Solutions SAC** – *Software Developer*  
+📅 Apr 2024 – Aug 2024  
+- Contributed to the development of a **certificate issuing system** (currently in production).  
+- Designed and implemented the **business logic** using **Django**.  
+- Integrated and managed the **MySQL database**.  
+- The system is live: [RCM Solutions SAC](https://rcmsolutionssac.com.pe/)  
+
+**Sapiens Consulting E.I.R.L.** – *Full Stack Software Developer*  
+📅 Jan 2025 – Apr 2025  
+- Improved and maintained user profiles (including custom AdminDev).  
+- Configured and personalized automated reminders.  
+- Migrated databases (SQL Server → MySQL).  
+- Extended user permissions on internal tools.  
+- Built a standalone web application for training evaluation.
+
+---
+
 ## 💼 Academic Experience  
 
 <details>

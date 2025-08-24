@@ -10,8 +10,8 @@
 🎓 **Software Design & Development Student** at **TECSUP**  
 💻 Passionate about **Full-Stack Development** and **Databases**  
 🌍 Based in **Ate Vitarte, Lima - Peru**  
-📫 Reach me at: **angelo.quispe.l@tecsup.edu.pe**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelo-dylan-ql)
+📫 Reach me at: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelo-dylan-ql)
+
 
 ---
 

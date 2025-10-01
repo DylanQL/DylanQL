@@ -4,8 +4,8 @@
 
 
 
-🎓 **Software Design & Development Student** at **TECSUP**  
-💻 Passionate about **Full-Stack Development** and **Databases**  
+🎓 **Software Design & Development Professional** from **TECSUP**  
+💻 Passionate about **Backend Development (Java & Spring Boot)** and **Full-Stack Projects**  
 🌍 Based in **Lima - Peru**  
 📫 Reach me at: **angelo.quispe.l@tecsup.edu.pe**  
 🔗 [LinkedIn](www.linkedin.com/in/angelo-dylan-ql)  

@@ -13,8 +13,9 @@
 ---
 
 ## 🚀 About Me  
-I’m a software development student with strong adaptability and teamwork skills, eager to keep learning and growing.  
-I have experience in **hackathon projects**, **SQL & NoSQL databases**, and programming with **Python, JavaScript, C#, PHP, and Kotlin**.  
+I’m a **Full Stack Software Developer** with a strong focus on **backend development using Java and Spring Boot**.  
+I have experience in **hackathon projects**, **academic and professional systems**, working with **SQL & NoSQL databases**, and programming with **Java, Python, JavaScript, C#, PHP, and Kotlin**.  
+I also have knowledge in **React, Flutter, Docker, and Linux environments**, as well as cloud deployment with **AWS, Azure, Oracle Cloud, and Google Cloud**.  
 Currently, I have an **intermediate English level**.  
 
 ---
@@ -34,7 +35,7 @@ Currently, I have an **intermediate English level**.
 ## 📚 Education  
 **TECSUP** – Higher Education Institute  
 🎓 Bachelor in Software Design & Development  
-📅 *2023 – Present*  
+📅 *2022 – 2025*  
 
 ---
 

@@ -35,7 +35,7 @@ Currently, I have an **intermediate English level**.
 ## 📚 Education  
 **TECSUP** – Higher Education Institute  
 🎓 Bachelor in Software Design & Development  
-📅 *2022 – 2025*  
+📅 *2023 – 2025*  
 
 ---
 

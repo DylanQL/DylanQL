@@ -56,6 +56,14 @@ Currently, I have an **intermediate English level**.
 - Extended user permissions on internal tools.  
 - Built a standalone web application for training evaluation.
 
+**RCM Solutions S.A.C.** – *Full Stack Software Developer*  
+📅 Jul 2023 – Dec 2024  
+- Participated in the maintenance, improvement, and functional support of an internal **ERP system**, collaborating with the development team under **agile methodologies**.  
+- Provided **corrective and evolutionary maintenance** to ERP modules developed with **Java and Spring Boot** on the backend and **Angular** on the frontend.  
+- Implemented functional improvements and bug fixes in administrative modules, contributing to system stability and operational continuity.  
+- Supported the creation and updating of **technical documentation** to facilitate system maintenance.  
+- Worked under **SCRUM methodology**, participating in sprint planning, daily meetings, and task tracking.
+
 ---
 
 ## 💼 Academic Experience  
